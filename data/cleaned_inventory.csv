@@ -1,0 +1,13 @@
+product_id,product_name,category,supplier_id,cost_price,selling_price,min_stock,supplier_name,city,profit_per_unit
+P001,Laptop Lenovo ThinkPad,Electronics,S001,7500000,8900000,10,PT Digital Nusantara,Jakarta,1400000
+P002,Wireless Mouse,Accessories,S002,85000,125000,20,CV Teknologi Mandiri,Medan,40000
+P003,Mechanical Keyboard,Accessories,S002,350000,475000,15,CV Teknologi Mandiri,Medan,125000
+P004,Monitor LG 24 Inch,Electronics,S001,1450000,1850000,8,PT Digital Nusantara,Jakarta,400000
+P005,USB Flash Drive 64GB,Storage,S003,65000,95000,25,PT Storage Indonesia,Bandung,30000
+P006,SSD Samsung 1TB,Storage,S003,1250000,1550000,10,PT Storage Indonesia,Bandung,300000
+P007,Printer Epson L3210,Electronics,S001,2100000,2650000,5,PT Digital Nusantara,Jakarta,550000
+P008,Webcam Logitech,Accessories,S002,450000,625000,12,CV Teknologi Mandiri,Medan,175000
+P009,Router TP-Link,Networking,S004,275000,390000,10,CV Network Solution,Surabaya,115000
+P010,LAN Cable 10m,Networking,S004,35000,55000,30,CV Network Solution,Surabaya,20000
+P011,Headset Gaming,Accessories,S002,175000,250000,15,CV Teknologi Mandiri,Medan,75000
+P012,External HDD 2TB,Storage,S003,950000,1200000,8,PT Storage Indonesia,Bandung,250000

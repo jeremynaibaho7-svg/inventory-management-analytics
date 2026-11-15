@@ -1,0 +1,7 @@
+validation_check,status,details
+Duplicate Product IDs,PASS,0 duplicate records
+Missing Product Data,PASS,0 incomplete records
+Invalid Product Prices,PASS,0 invalid price records
+Invalid Transaction Quantity,PASS,0 invalid transactions
+Transaction Product References,PASS,0 invalid references
+Database Foreign Key Integrity,PASS,0 foreign key violations

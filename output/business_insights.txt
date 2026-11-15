@@ -1,0 +1,24 @@
+INVENTORY MANAGEMENT - BUSINESS INSIGHTS
+=======================================================
+Total inventory units: 403
+Total inventory value: Rp 250,600,000
+
+1. STOCK MONITORING
+External HDD 2TB: 8 units (minimum: 8). Review replenishment needs.
+
+2. PRODUCT MOVEMENT
+LAN Cable 10m has the highest stock-out quantity: 150 units.
+Review its demand pattern and replenishment frequency.
+
+3. INVENTORY VALUE
+Electronics has the largest inventory value among all categories.
+- Electronics: Rp 156,200,000
+- Accessories: Rp 45,125,000
+- Storage: Rp 43,400,000
+- Networking: Rp 5,875,000
+
+4. BUSINESS RECOMMENDATIONS
+- Monitor products at or below minimum stock.
+- Review replenishment frequency for high stock-out products.
+- Monitor capital allocation in high-value categories.
+- Review inventory movement regularly to reduce stock imbalance.

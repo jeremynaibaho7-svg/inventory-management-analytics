@@ -1,0 +1,5 @@
+category,total_products,total_stock,total_stock_out,inventory_value
+Accessories,4,193,97,45125000.0
+Electronics,3,42,33,156200000.0
+Networking,2,65,205,5875000.0
+Storage,3,103,127,43400000.0

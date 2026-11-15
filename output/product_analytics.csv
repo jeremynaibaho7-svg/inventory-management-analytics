@@ -1,0 +1,13 @@
+product_id,product_name,category,cost_price,selling_price,min_stock,current_stock,total_stock_out,inventory_value,stock_status
+P001,Laptop Lenovo ThinkPad,Electronics,7500000.0,8900000.0,10,15,5,112500000.0,NORMAL
+P002,Wireless Mouse,Accessories,85000.0,125000.0,20,70,30,5950000.0,NORMAL
+P003,Mechanical Keyboard,Accessories,350000.0,475000.0,15,38,12,13300000.0,NORMAL
+P004,Monitor LG 24 Inch,Electronics,1450000.0,1850000.0,8,20,10,29000000.0,NORMAL
+P005,USB Flash Drive 64GB,Storage,65000.0,95000.0,25,70,80,4550000.0,NORMAL
+P006,SSD Samsung 1TB,Storage,1250000.0,1550000.0,10,25,15,31250000.0,NORMAL
+P007,Printer Epson L3210,Electronics,2100000.0,2650000.0,5,7,18,14700000.0,NORMAL
+P008,Webcam Logitech,Accessories,450000.0,625000.0,12,40,20,18000000.0,NORMAL
+P009,Router TP-Link,Networking,275000.0,390000.0,10,15,55,4125000.0,NORMAL
+P010,LAN Cable 10m,Networking,35000.0,55000.0,30,50,150,1750000.0,NORMAL
+P011,Headset Gaming,Accessories,175000.0,250000.0,15,45,35,7875000.0,NORMAL
+P012,External HDD 2TB,Storage,950000.0,1200000.0,8,8,32,7600000.0,LOW STOCK
